@@ -1,4 +1,4 @@
-# Bearish_to_Bullish-Unstructured_Data_Analysis_for_MarketTrends
+# Bearish_to_Bullish - Unstructured_Data_Analysis_for_MarketTrends
 ## Introduction
 This project develops an advanced web scraping and analysis tool to extract insights from unstructured data in financial forums. Focused on the 'Moneycontrol' message boards, the system captures user discussions and sentiments related to stocks, providing a rich dataset for further analysis.
 
